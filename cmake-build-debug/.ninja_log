@@ -1,0 +1,8 @@
+# ninja log v6
+7	309	7532566943261871	CMakeFiles/AS6.dir/CheckMeasuremnt().cpp.obj	22f111141c798b48
+5	311	7532566943241908	CMakeFiles/AS6.dir/ValidateSex().cpp.obj	b763e8e2830fddc0
+11	311	7532566943302215	CMakeFiles/AS6.dir/EvaluateCandidate().cpp.obj	ce630c0dd26d0e8e
+9	311	7532566943276928	CMakeFiles/AS6.dir/ValidateIntInput().cpp.obj	c970b3a67d5ed448
+3	312	7532566943221914	CMakeFiles/AS6.dir/OutputClassHeader().cpp.obj	261834c39673d6a2
+3	212	7532568904879810	CMakeFiles/AS6.dir/main.cpp.obj	48b37e3942212af0
+3	72	7532569164452593	AS6.exe	bf1d194281cf5604
