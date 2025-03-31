@@ -28,6 +28,7 @@ The program will output one of the following messages:
 "This candidate has been rejected based on the HEIGHT and WEIGHT requirements."
 
 ================================
+
 Example Input/Output:
 Input:
 
@@ -38,6 +39,7 @@ Weight: 130
 Output:
 
 This candidate has been ACCEPTED!
+
 =================================
 
 How to Run:
